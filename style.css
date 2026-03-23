@@ -1,0 +1,43 @@
+
+
+body{
+    background-color:#564D65;
+}
+
+.container{
+    background-color: #1A181B;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+h1{
+    font-family: "federo", sans-serif;
+    padding: 10px;
+    color: #CFCFEA;
+}
+
+h4{
+    font-family: "playfair", serif;
+    padding: 10px 10px 0px 10px;
+    text-decoration: underline;
+    color: #A89B9D;
+}
+
+p{
+    font-family: "playfair", serif;
+    padding: 10px;
+    font-size: 20px;
+    color: #A89B9D;
+}
+
+.navcolor{
+    background-color: #A89B9D;
+}
+
+.centering{
+    margin-top: 25%;
+}
+
+img{
+    margin: 20px;
+}
