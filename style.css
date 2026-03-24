@@ -1,48 +1,48 @@
-body{
-    background-color:#564D65;
+body {
+    background-color: #564D65;
 }
 
-.container{
+.container {
     background-color: #1A181B;
     padding: 20px;
     margin: 40px auto;
 }
 
-h1{
+h1 {
     font-family: "federo", sans-serif;
     color: #CFCFEA;
 }
 
-h4{
+h4 {
     font-family: "playfair", serif;
     color: #A89B9D;
     font-size: xx-large;
 }
 
-a{
+a {
     color: #CFCFEA;
     text-decoration: underline;
 }
 
-p{
+p {
     font-family: "playfair", serif;
     font-size: 20px;
     color: #A89B9D;
 }
 
-.navcolor{
+.navcolor {
     background-color: #A89B9D;
 }
 
-.centering{
+.centering {
     margin-top: 25%;
 }
 
-.margins{
+.margins {
     margin: 20px;
 }
 
-.dividing{
+.dividing {
     border-top: 1px solid #A89B9D;
     margin: 20px 0;
 }
