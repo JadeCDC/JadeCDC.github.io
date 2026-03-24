@@ -46,3 +46,8 @@ p {
     border-top: 1px solid #A89B9D;
     margin: 20px 0;
 }
+
+.headshot {
+    width: 900px;
+    height: Auto;
+}
