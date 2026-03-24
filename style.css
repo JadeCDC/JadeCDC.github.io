@@ -19,8 +19,12 @@ h1{
 h4{
     font-family: "playfair", serif;
     padding: 10px 10px 0px 10px;
-    text-decoration: underline;
     color: #A89B9D;
+}
+
+a{
+    color: #CFCFEA;
+    text-decoration: underline;
 }
 
 p{
